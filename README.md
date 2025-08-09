@@ -1,7 +1,6 @@
 # The Impossible Platformer
 
 > **Role:** Solo Developer  
-> **Tagline:** A level-based 2D platformer inspired by Mario  
 > **Installation:** [Itch.io](https://notmicah.itch.io/the-impossible-platformer) 
 
 
